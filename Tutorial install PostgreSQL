@@ -1,6 +1,10 @@
-How to install PostgreSQL steps:
-  1. Download PostgreSQL installer (https://www.postgresql.org/download/)
-  2. Buka file PostgreSQL
-  3. Jalankan installernya
-  4. Ikuti beberapa instruksinya
-  5. Ketika sudah selesai periksa apakah sudah terinstall atau belum
+How to install PostgreSQL 
+
+steps:
+
+1. Download PostgreSQL installer (https://www.postgresql.org/download/)
+2. Buka file PostgreSQL
+3. Jalankan installernya
+4. Ikuti beberapa instruksinya
+5. Ketika sudah selesai periksa apakah sudah terinstall atau belum
+ ![image](https://github.com/Vools24/pertemuan1-basis-data/assets/148308642/571bdf64-56c9-4517-b5bc-392ae4a1fa0e)
